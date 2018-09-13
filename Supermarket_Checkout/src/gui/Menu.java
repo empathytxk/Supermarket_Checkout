@@ -9,6 +9,7 @@ import gui.SimulationResult;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
+/* add */
 public class Menu {
 
 	private JFrame frmMenu;
